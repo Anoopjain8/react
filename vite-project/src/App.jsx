@@ -1,8 +1,7 @@
+import Try from "./try"
 function App() {
-
   return (
-   <h1>welcome anoop</h1>
+    <Try />
   )
 }
-
 export default App

@@ -1,6 +1,8 @@
+import Try from "./try";
+
 function App() {
   return (
-  <h1>hello anoop</h1>
+  <Try />
   );
 }
 
